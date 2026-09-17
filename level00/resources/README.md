@@ -29,6 +29,6 @@ ls -la /usr/sbin/john
 
 cat /usr/sbin/john
 ```
-Output: a string made up only of lowercase letters, some doubled and no digits
+Output : a string made up only of lowercase letters, some doubled and no digits
 - Strong hint that it's an encoded piece of text rather than random data
-- Try shifting each letter and check if any shift produces readable English or use only decoder
+- Try shifting each letter and check if any shift produces readable English or use online decoder
